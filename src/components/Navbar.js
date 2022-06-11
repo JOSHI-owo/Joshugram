@@ -45,6 +45,7 @@ const UserBox = styled(Box)(({ theme }) => ({
   gap: "10px",
   alignItems: "center",
   // justifyContent: "center",
+  marginTop: "5px",
   [theme.breakpoints.up("sm")]: {
     display: "none",
   },
