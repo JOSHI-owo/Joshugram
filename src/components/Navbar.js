@@ -67,7 +67,7 @@ const Navbar = () => {
           {/* Logo will come here 
            <Pets sx={{display:{xs:"block",sm:"none"}}}/> */}
           <Search>
-            <InputBase placeholder="Search..." />
+            <InputBase placeholder="Search..." sx={{ color: "gray" }} />
           </Search>
           <Icons>
             <Badge badgeContent={4} color="error">

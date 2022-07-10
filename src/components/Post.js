@@ -37,7 +37,7 @@ const Post = (props) => {
         alt="Paella dish"
       />
       <CardContent>
-        <Typography variant="body2" color="text.sexondary">
+        <Typography variant="body2" color="text.primary">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. In,
           doloremque praesentium quisquam beatae amet, necessitatibus ab qui ea
           reiciendis expedita, sunt facilis voluptatibus rerum pariatur commodi
