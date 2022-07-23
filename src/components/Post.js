@@ -32,8 +32,8 @@ const Post = (props) => {
       />
       <CardMedia
         component="img"
-        height="20%"
-        image="public/favicon.ico"
+        height="10%"
+        image={props.image}
         alt="Paella dish"
       />
       <CardContent>
