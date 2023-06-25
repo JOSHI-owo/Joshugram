@@ -32,7 +32,7 @@ const Post = (props) => {
       />
       <CardMedia
         component="img"
-        height="10%"
+        height="520px"
         image={props.image}
         alt="Paella dish"
       />
